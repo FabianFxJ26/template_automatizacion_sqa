@@ -1,0 +1,8 @@
+co/com/automatizacion/sqa/tasks/SeleccionarProductos.java
+ co.com.automatizacion.sqa.tasks.SeleccionarProductos
+co/com/automatizacion/sqa/userInterfaces/PaginaParaAbrir.java
+ co.com.automatizacion.sqa.userInterfaces.PaginaParaAbrir
+co/com/automatizacion/sqa/tasks/AbrirPagina.java
+ co.com.automatizacion.sqa.tasks.AbrirPagina
+co/com/automatizacion/sqa/userInterfaces/PaginaCategoriaAmor.java
+ co.com.automatizacion.sqa.userInterfaces.PaginaCategoriaAmor
